@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\3.Predicate.ConsoleApp\bin\Debug\netcoreapp3.1\3.Predicates.ConsoleApp.exe
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\3.Predicate.ConsoleApp\obj\Debug\netcoreapp3.1\3.Predicates.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\3.Predicate.ConsoleApp\obj\Debug\netcoreapp3.1\3.Predicates.ConsoleApp.AssemblyInfo.cs

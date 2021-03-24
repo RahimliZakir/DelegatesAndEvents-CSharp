@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\bin\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.exe
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\bin\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.deps.json
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\bin\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.runtimeconfig.json
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\bin\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\bin\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.dll
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\bin\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.pdb
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\obj\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\obj\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\obj\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\obj\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.dll
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\obj\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.pdb
+C:\Users\User\Desktop\DelegatesAndEvents\DelegatesAndEventsSolution\5.CustomDelegatesWithEvents.ConsoleApp\obj\Debug\netcoreapp3.1\5.CustomDelegatesWithEvents.ConsoleApp.genruntimeconfig.cache
